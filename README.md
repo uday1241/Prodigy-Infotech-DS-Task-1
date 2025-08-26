@@ -29,12 +29,3 @@ During the EDA process, I performed the following steps:
 ## Conclusion
 
 In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
-
-Thank you for reviewing my submission!
-
-## 📬 Contact
-
-For any inquiries or feedback regarding this project, please contact:
-
-- <a>[Shantanu Pandey ](https://www.linkedin.com/in/shantanu-pandey22/)(LinkedIn)</a>
-- Email: shantanupandey223@gmail.com
